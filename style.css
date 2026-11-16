@@ -3,8 +3,8 @@
   --card: #ffffff;
   --text: #0e1116;
   --muted: #56606e;
-  --accent: #0b7a55;
-  --tint: rgba(11, 122, 85, 0.1);
+  --accent: #09704e;
+  --tint: rgba(9, 112, 78, 0.1);
   --line: rgba(14, 17, 22, 0.12);
 }
 @media (prefers-color-scheme: dark) {
